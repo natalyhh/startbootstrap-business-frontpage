@@ -25,7 +25,18 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
-
+@media only screen and (max-width: 480px){
+    .business-header {
+        height: 25vh !important;
+        min-height: 170px !important;
+    }
+}
+@media only screen and (max-width: 767px){
+    .business-header {
+        height: 35vh;
+        min-height: 225px;
+    }
+}
 .card {
     height: 100%;
 }
