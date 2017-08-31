@@ -19,7 +19,7 @@ body {
     min-height: 300px;
     /*! 
     background: url('http://placehold.it/1920x400') center center no-repeat scroll;*/
-    background: url('https://upload.wikimedia.org/wikipedia/commons/e/e3/Magnificent_CME_Erupts_on_the_Sun_-_August_31.jpg') center center no-repeat scroll;
+    background: url(img/pc.jpg) center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
